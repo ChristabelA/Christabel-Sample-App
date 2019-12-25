@@ -9,8 +9,6 @@ This app makes use of buttons to change it's text, text color and background col
 
 ### App Walk-though
 
-![Sample App](https://github.com/ChristabelA/Christabel-Sample-App/blob/master/My-Application-1.gif)
-
 <img src="https://github.com/ChristabelA/Christabel-Sample-App/blob/master/My-Application-1.gif" width=200><br>
 
 ### Required User Stories
